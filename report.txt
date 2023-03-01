@@ -1,0 +1,10 @@
+
+('2022-12-02 21:47:39.059  INFO 1 --- [nio-8090-exec-7] c.g.r.a.service.common.ExecutionService', '', 'Get execution by id 7474')
+('2022-12-02 21:47:39.068  INFO 1 --- [nio-8090-exec-7] c.g.r.a.service.common.ExecutionService', '', 'Found a matching execution with id 7474')
+('2022-12-02 21:47:39.108  INFO 1 --- [nio-8090-exec-7] c.g.r.a.service.common.ExecutionService', '', 'Updating Low coverage for execution 7474')
+('2022-12-02 21:47:44.630  INFO 1 --- [nio-8090-exec-4] c.g.r.a.service.common.ExecutionService', '', 'Get execution by id 7474')
+('2022-12-02 21:47:44.636  INFO 1 --- [nio-8090-exec-4] c.g.r.a.service.common.ExecutionService', '', 'Found a matching execution with id 7474')
+('2022-12-02 21:47:56.903  INFO 1 --- [nio-8090-exec-3] c.g.r.a.service.common.ExecutionService', '', 'Get execution by id 7474')
+('2022-12-02 21:47:56.948  INFO 1 --- [nio-8090-exec-3] c.g.r.a.service.common.ExecutionService', '', 'Found a matching execution with id 7474')
+('2022-12-02 21:47:58.285  INFO 1 --- [nio-8090-exec-8] c.g.r.a.service.common.ExecutionService', '', 'Get execution by id 7474')
+('2022-12-02 21:47:58.292  INFO 1 --- [nio-8090-exec-8] c.g.r.a.service.common.ExecutionService', '', 'Found a matching execution with id 7474')
